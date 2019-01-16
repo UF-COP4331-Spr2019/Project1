@@ -4,7 +4,7 @@ In this first, quick assignment, you are to create a class for a 2-Dimensional A
 This class can be used in the next project to aid in creating a Tic Tac Toe game.
 
 ### Code Implementation
-- Implement the implement the methods defined in TwoDArray.java to accept the expected parameters and return accurate results.
+- Implement the methods defined in TwoDArray.java to accept the expected parameters and return accurate results.
 - You are allowed and expected to add any class attributes and methods needed to complete this assignment. 
 - Don't forget to test your code to make sure that it runs and fix any errors to your code.
 Getting Help: If you run into technical or conceptual difficulties and need help use Piazza or go to office hours
