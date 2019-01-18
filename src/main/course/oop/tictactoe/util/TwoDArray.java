@@ -33,7 +33,7 @@ public class TwoDArray {
 		 * 2. The location [row][col] is no longer the default value
 		 * 		-return "Failure: (row), (col) is not empty.
 		 * 
-		 * 3. val is not the default value; 
+		 * 3. val is the default value; 
 		 * 		-return "Failure: (val) is not allowed."
 		 * 
 		 * Note: Print the int value in place of (). 
